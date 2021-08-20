@@ -6,7 +6,7 @@ setup(
     # package name
     name='hello-python-derldalfor100',
     # package version
-    version='0.1.0',
+    version='0.2.0',
     # short description
     description='A script that prints "hello python"',
     # the documentation displayed on pypi
